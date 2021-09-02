@@ -17,7 +17,7 @@ class TabbarVC: UITabBarController {
     
 
     @objc func NotificationGoToIndex1(){
-        // Your Action herer
+        // Your Action here
         self.selectedIndex = 1
     }
     
