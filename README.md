@@ -1,7 +1,7 @@
 
 # Technicalisto
 
-## How to Add Notification / Delegate / Observer to Controll Another Screen 
+## How to Add Delegate / Notification / Observer to Controll Another Screen 
 
 1. Create your Design
 
@@ -13,7 +13,7 @@
 3. Add your method selector like :
 
        @objc func NotificationGoToIndex1(){
-        // Your Action herer
+        // Your Action here
         self.selectedIndex = 1
        }
 
@@ -24,3 +24,4 @@
 
 
 ### Thanks
+
